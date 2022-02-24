@@ -1,0 +1,20 @@
+.MemberCardPage {
+    background-color: rgb(63, 63, 63);
+    flex-direction: column  ;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+
+    div.group-page-header {
+        font-size: 50px;
+        font-weight: bold;
+        color: rgb(255, 196, 0);
+        padding: 50px;
+    }
+
+    div.member {
+        display: flex;
+        width: 100%;      
+        justify-content: center;
+    }
+}

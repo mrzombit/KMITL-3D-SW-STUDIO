@@ -1,0 +1,49 @@
+.Card {
+
+    border: 2px solid black;
+    background-color:rgba(255, 231, 199, 0.972);
+    padding: 20px;
+    border-radius: 5%;
+    height: 270px;
+    width: 750px;
+    position: relative;
+
+    div.container {
+        height: 200px;
+        width: 200px;
+        margin: 4px;
+        position: absolute;
+        right: 2px;
+
+        img {
+            max-width: 100%;  
+            height: auto;  
+        }
+    }
+
+    div.detail {
+        position: absolute;
+        justify-content: left;
+        text-align: left;
+        width: 570px;
+        margin: 5px;
+        div.name {
+            font-size: 20px;
+            font-weight: bold;
+            padding-top: 15px;
+            padding-bottom: 10px;
+        }
+    
+        div.id {
+            font-size: 15px;
+            font-weight: bold;
+        }
+    }
+
+    div.button-div {
+        position: absolute; 
+        width: 92%;
+        bottom: 1px;
+    }
+    
+}

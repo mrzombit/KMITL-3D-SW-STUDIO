@@ -1,0 +1,9 @@
+const loremList = [
+    "Suspendisse potenti. Ut consequat eu purus a egestas. Integer ut vestibulum turpis, in vestibulum nisi. Fusce quis justo sed orci tempor maximus. Curabitur at velit mauris. Aliquam egestas neque lobortis varius consequat. Proin aliquet odio risus, id pretium mauris semper et. Suspendisse finibus ante non lectus sodales, ut egestas ex pharetra. Etiam et eros urna.",
+    "Suspendisse potenti. Ut consequat eu purus a egestas. Integer ut vestibulum turpis, in vestibulum nisi. Fusce quis justo sed orci tempor maximus. Curabitur at velit mauris. Aliquam egestas neque lobortis varius consequat. Proin aliquet odio risus, id pretium mauris semper et. Suspendisse finibus ante non lectus sodales, ut egestas ex pharetra. Etiam et eros urna.",
+    "Suspendisse potenti. Ut consequat eu purus a egestas. Integer ut vestibulum turpis, in vestibulum nisi. Fusce quis justo sed orci tempor maximus. Curabitur at velit mauris. Aliquam egestas neque lobortis varius consequat. Proin aliquet odio risus, id pretium mauris semper et. Suspendisse finibus ante non lectus sodales, ut egestas ex pharetra. Etiam et eros urna.",
+    "Suspendisse potenti. Ut consequat eu purus a egestas. Integer ut vestibulum turpis, in vestibulum nisi. Fusce quis justo sed orci tempor maximus. Curabitur at velit mauris. Aliquam egestas neque lobortis varius consequat. Proin aliquet odio risus, id pretium mauris semper et. Suspendisse finibus ante non lectus sodales, ut egestas ex pharetra. Etiam et eros urna.",
+    "Suspendisse potenti. Ut consequat eu purus a egestas. Integer ut vestibulum turpis, in vestibulum nisi. Fusce quis justo sed orci tempor maximus. Curabitur at velit mauris. Aliquam egestas neque lobortis varius consequat. Proin aliquet odio risus, id pretium mauris semper et. Suspendisse finibus ante non lectus sodales, ut egestas ex pharetra. Etiam et eros urna."
+]
+
+export default loremList
